@@ -9,7 +9,7 @@ The <a href="http://cla.umn.edu">College of Liberal Arts</a> is the largest coll
 
 The LATIS Software Development Team is a group of developers with broad technical skills that are responsible for designing and maintaining web applications to support the research, instructional and administrative mission of the college. We provide consulting, design, architecture, programming, training and maintenance services for a wide variety of projects.
 
-We're looking for a "Dev 3" to join our team.  A "developer 3" in University lingo is a tech lead or senior developer.  Day to day, that involves everything from working as a technology consultant on a working group to doing deep design and planning on largescale systems.  We also work to connect our developers directly with faculty and other researchers, according to shared interests, to help further the teaching and resaerch mission of the college. 
+We're looking for a "Dev 3" to join our team.  A "developer 3" in University lingo is a tech lead or senior developer.  Day to day, that involves everything from working as a technology consultant on a working group to doing deep design and planning on largescale systems.  We also work to connect our developers directly with faculty and other researchers, according to shared interests, to help further the teaching and research mission of the college. 
 
 ## Values
 
