@@ -21,17 +21,17 @@ LATIS Software Development is a tight-knit team that is deeply integrated with t
 
 ## Benefits
 
-Working at the University is pretty remarkable.  We offer a very strong <a href="https://humanresources.umn.edu/benefits">benefits</a> package, including tuition subsidies.  You also get to work in an extremely dynamic and exciting environment, working with people who spend every day working to make the world a better, healthier, and safer place.
+Working at the University is pretty remarkable.  We offer a very strong <a href="https://humanresources.umn.edu/benefits">benefits</a> package, including tuition subsidies, and generous retirement and healthcare benefits.  You also get to work in an extremely dynamic and exciting environment, working with people who spend every day working to make the world a better, healthier, and safer place.
 
-Salary for this job is between $xx,000 and $xx,000.
+This position pays in the $80,000s, depending on qualifications.
 
 ## Interviews
 
 We use three interviews. In the first you'll meet with a small group of employees from LATIS and our partner organizations to discuss the job, your previous experience, and your qualifications. The first interview can be done remotely. This interview takes about 60 minutes.
 
-The second interview is a take home design and architecture project, followed by a discussion (in person or remote). The take home work will be time boxed (to just a few hours) and scheduled around your work and family needs.  The discussion takes 30-60 minutes.  This is a chance for you to show us how you approach development and the development workflow.  It's not a "write a bubble sort in a language you've never heard of" sort of experience. 
+The second interview is a take home design and architecture project, followed by a discussion with our development team. The take home work will be time boxed (to just a couple hours max) and scheduled around your work and family needs.  The discussion takes 30-60 minutes.  This is a chance for you to show us how you approach development, the development workflow, and interaction with coworkers.  It's not a "write a bubble sort in a language you've never heard of" sort of experience, and we don't care how many pingpong balls fit in a schoolbus. 
 
-In the third interview, you'll chat with our CIO about LATIS and your interest in the mission. 
+In the third interview, you'll chat with our CIO about LATIS and your interest in the mission of the College of Liberal Arts. 
 
 ## How to apply
 
