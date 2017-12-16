@@ -29,7 +29,7 @@ This position pays in the $80,000s, depending on qualifications.
 
 We use three interviews. In the first you'll meet with a small group of employees from LATIS and our partner organizations to discuss the job, your previous experience, and your qualifications. The first interview can be done remotely. This interview takes about 60 minutes.
 
-The second interview is a take home design and architecture project, followed by a discussion with our development team. The take home work will be time boxed (to just a couple hours max) and scheduled around your work and family needs.  The discussion takes 30-60 minutes.  This is a chance for you to show us how you approach development, the development workflow, and interaction with coworkers.  It's not a "write a bubble sort in a language you've never heard of" sort of experience, and we don't care how many pingpong balls fit in a schoolbus.
+The second interview is a take home design and architecture project, followed by a discussion with our development team. The take home work will be time boxed (to just a couple hours max) and scheduled around your work and family needs.  The discussion takes 30-60 minutes.  This is a chance for you to show us how you approach development, the development workflow, and interaction with coworkers.  It's not a "write a bubble sort in a language you've never heard of" sort of experience, and we don't care how many ping-pong balls fit in a school bus.
 
 In the third interview, you'll chat with our CIO about LATIS and your interest in the mission of the College of Liberal Arts. 
 
