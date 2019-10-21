@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Home
-subtitle: LATIS Software Development
+subtitle: LATIS
 ---
 ## Enhancing Learning, Advancing Research, Improving Process
 
