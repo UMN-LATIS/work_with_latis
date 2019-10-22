@@ -16,7 +16,7 @@
 title: LATIS - University of Minnesota
 email: mcfa0086@umn.edu
 description: > # this means to ignore newlines until "baseurl:"
-  LATIS Software Development
+  LATIS
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://umn-latis.github.io/work_with_latis" # the base hostname & protocol for your site
 repostiory: "umn-latis/work_with_latis"
