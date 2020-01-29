@@ -19,6 +19,10 @@ Some examples of our products include:
 * [Elevator](http://www.elevatorapp.net), our AWS-based digital asset management platform
 * [TandemPlus](http://tandem.umn.edu), a tool for facilitating language practice
 
+Some upcoming projects for this role include:
+* A new tool to help students keep track of their career planning progress and next steps
+* Enhancements to a group management tool to track committee and role memberships
+* Repacking and expanding on supporting materials for our open source projects
 
 ## Values ##
 
@@ -43,4 +47,4 @@ To apply for the job, you’ll need to use the University job application system
 
 The cover letter is a chance for you to tell us about your background, and how your experiences would make the College of Liberal Arts a good home for you.
 
-Ready to apply? Great! Select whether you are a current University of Minnesota employee or external applicant on [our job listing site](https://jobsearch.cla.umn.edu/XXXXX). If you need the JobID, it’s XXXXX.
+Ready to apply? Great! Select whether you are a current University of Minnesota employee or external applicant on [our job listing site](https://jobsearch.cla.umn.edu/335304). If you need the JobID, it’s 335304.
