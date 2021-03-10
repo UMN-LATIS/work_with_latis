@@ -45,7 +45,7 @@ In the second interview, you will meet with the LATIS technology architect and L
 
 ## How to apply ##
 
-To apply for the job, you’ll need to use the University job application system. It’s not the most user-friendly process, so please check the [Using the Job Application System](http://humanresources.umn.edu/find-job/using-employment-system) page or get in touch if you run into problems. You’ll need a resume and a cover letter, along with references.
+To apply for the job, you’ll need to use the University job application system. It’s not the most user-friendly process, so please check the [Using the Job Application System](http://humanresources.umn.edu/find-job/using-employment-system) page or <a href="mailto:mcfa0086@umn.edu">get in touch</a> if you run into problems. You’ll need a resume and a cover letter, along with references.
 
 The cover letter is a chance for you to tell us about your background, and how your experiences would make the College of Liberal Arts a good home for you.
 
