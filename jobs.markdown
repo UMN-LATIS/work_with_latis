@@ -37,7 +37,7 @@ LATIS exists to elevate liberal arts teaching, learning, and research. We do tha
 Working at the University is pretty remarkable. We offer a very strong [benefits](https://humanresources.umn.edu/benefits) package, including tuition subsidies, and generous retirement and healthcare benefits. You also get to work in an extremely dynamic and exciting environment, working with people who spend every day working to make the world a better, healthier, and safer place.  The job pays in the $80,000 - $90,000 range.
 
 ## Interviews ##
-The job posting will be open until April 9th, 2021.  We'll conduct interviews later in April and aim to make an in early May. 
+The job posting will be open until April 9th, 2021.  We'll conduct interviews later in April and aim to make an offer in early May. 
 
 We will use two rounds of interviews. In the first interview, you will meet online with the members of LATIS and our partner organizations around campus to discuss the role, your previous experience, and your qualifications. This interview takes about 45 minutes.
 
