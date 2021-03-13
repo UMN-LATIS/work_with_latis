@@ -14,7 +14,7 @@ You'll work with the LATIS Technology Architect and members of the three LATIS u
 
 Some examples of our products include:
 * [z.umn.edu](http://z.umn.edu), the University's URL shortener
-* [LangTest](http://langtest.cla.umn.edu), the onboarding and management tool for the CLA Language Requirement
+* [LangTest](http://ept.langtest.umn.edu), the onboarding and management tool for the CLA Language Requirement
 * [ChimeIn](http://chimein2.cla.umn.edu), a realtime student response (clicker) tool
 * [Elevator](http://www.elevatorapp.net), our AWS-based digital asset management platform
 * [TandemPlus](http://tandem.umn.edu), a tool for facilitating language practice
