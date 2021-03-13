@@ -8,13 +8,13 @@ subtitle: Let's work together.
 
 The [College of Liberal Arts](http://cla.umn.edu/) is the largest college at the University of Minnesota, with over 16,000 students and more than 40 departments.  LATIS is the College’s technology organization, and focuses on providing in-depth, high level support to faculty, students and staff on research and academic needs.  
 
-We're looking for a "Dev 3" to join our team.  A "developer 3" in University lingo is a tech lead or senior developer.  Day to day, that involves everything from working as a technology consultant on a working group to doing deep design and planning on large-scale systems.  We also work to connect our developers directly with faculty and other researchers, according to shared interests, to help further the teaching and research mission of the college. 
+We're looking for a "Dev 3" to join our team.  A "developer 3" in University lingo is a tech lead or senior developer.  Day to day, that involves everything from working as a technology consultant on a working group to doing deep design and planning on large-scale systems.  We also work to connect our developers directly with faculty and other researchers, according to shared interests, to help further the teaching and research mission of the college. Day to day, this position will have a lot of autonomy, so you should be comfortable with self-directed work. 
 
 You'll work with the LATIS Technology Architect and members of the three LATIS units (Enhancing Learning, Advancing Research, Improving Process) to build new tools, support existing needs, and consult with members of our college.  You'll also help chart the technological course for LATIS development.  We work on everything from small scale prototypes to enterprise-critical systems, using a wide range of technologies including Ruby on Rails, PHP (Laravel), NodeJS, Python, Unity, React and VueJS.  
 
 Some examples of our products include:
 * [z.umn.edu](http://z.umn.edu), the University's URL shortener
-* [LangTest](http://langtest.cla.umn.edu), the onboarding and management of the CLA Language Requirement
+* [LangTest](http://langtest.cla.umn.edu), the onboarding and management tool for the CLA Language Requirement
 * [ChimeIn](http://chimein2.cla.umn.edu), a realtime student response (clicker) tool
 * [Elevator](http://www.elevatorapp.net), our AWS-based digital asset management platform
 * [TandemPlus](http://tandem.umn.edu), a tool for facilitating language practice
@@ -23,6 +23,7 @@ Some upcoming projects for this role include:
 * Enhancements to a group management tool to track committee and role memberships
 * Repacking and expanding on supporting materials for our open source projects
 * Helping strategize our move to a mix of Kubernetes and serverless delivery
+
 
 ## Values ##
 
