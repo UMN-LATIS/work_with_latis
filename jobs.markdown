@@ -33,6 +33,8 @@ LATIS exists to elevate liberal arts teaching, learning, and research. We do tha
 * Linking and Extending - building new partnerships and making connections
 * Bringing Order to Chaos - seeking to proactively address the needs of the College
 
+LATIS offers a diverse, balanced environment which provides the freedom to collaborate across disciplines, and with partners both inside and outside the University. We seek people who will push us to grow and improve.  We value openness, community engagement, and rigorous debate.   LATIS is committed to increasing the diversity of our campus community. Candidates who have experience working with a diverse range of faculty, staff and students, and who can contribute to the climate of inclusivity are encouraged to identify their experiences in these areas.
+
 ## Benefits ##
 
 Working at the University is pretty remarkable. We offer a very strong [benefits](https://humanresources.umn.edu/benefits) package, including tuition subsidies, and generous retirement and healthcare benefits. You also get to work in an extremely dynamic and exciting environment, working with people who spend every day working to make the world a better, healthier, and safer place.  The job pays in the $80,000 - $90,000 range.
